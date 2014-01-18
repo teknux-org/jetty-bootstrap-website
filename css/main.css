@@ -228,11 +228,11 @@ i.scroll:hover {
 @media (max-width: 768px) {
 	
   .header {
-	background: url(../img/bg.jpg) no-repeat center center scroll; 
+	background: url(../img/background-city.png) no-repeat center center scroll; 
   }
 
   .callout {
-	background: url(../img/callout.jpg) no-repeat center center scroll; 
+	background: url(../img/space-background.jpg) no-repeat center center scroll; 
   }
 
   .map {
